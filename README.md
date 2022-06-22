@@ -1,10 +1,7 @@
-- 👋 
-- 👀 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Eu sou @matheusLeite04062006
+- 👀 eu me interesso por viajar,jogos,leitura
+- 🌱 estou estudando css
+- 💞️ estou procurando colaborar
+- 📫 voce pode me encontrarem @
 
-<!---
-matheusLeite04062006/matheusLeite04062006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

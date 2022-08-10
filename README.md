@@ -2,6 +2,5 @@
 - 👀 eu me interesso por viajar,jogos,leitura
 - 🌱 estou estudando css
 - 💞️ estou procurando colaborar
-- 📫 voce pode me encontrarem @
-
+- 📫 voce pode me encontrarem mtdslleite357@gmail.com
 
